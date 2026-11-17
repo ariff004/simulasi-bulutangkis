@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Sejarah",
+  "description": "Game kuis sejarah seru dengan pilihan ganda, sistem poin dan combo, pembahasan fakta sejarah, kategori sejarah Indonesia & dunia, dan riwayat skor tertinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
